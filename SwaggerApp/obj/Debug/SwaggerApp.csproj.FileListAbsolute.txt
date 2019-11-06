@@ -1,0 +1,11 @@
+C:\Project\SwaggerApp\SwaggerApp\bin\Debug\SwaggerApp.exe.config
+C:\Project\SwaggerApp\SwaggerApp\bin\Debug\SwaggerApp.exe
+C:\Project\SwaggerApp\SwaggerApp\bin\Debug\SwaggerApp.pdb
+C:\Project\SwaggerApp\SwaggerApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Project\SwaggerApp\SwaggerApp\bin\Debug\Newtonsoft.Json.dll
+C:\Project\SwaggerApp\SwaggerApp\bin\Debug\Newtonsoft.Json.xml
+C:\Project\SwaggerApp\SwaggerApp\obj\Debug\SwaggerApp.csprojAssemblyReference.cache
+C:\Project\SwaggerApp\SwaggerApp\obj\Debug\SwaggerApp.csproj.CoreCompileInputs.cache
+C:\Project\SwaggerApp\SwaggerApp\obj\Debug\SwaggerApp.csproj.CopyComplete
+C:\Project\SwaggerApp\SwaggerApp\obj\Debug\SwaggerApp.exe
+C:\Project\SwaggerApp\SwaggerApp\obj\Debug\SwaggerApp.pdb
